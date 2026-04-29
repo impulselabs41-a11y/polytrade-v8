@@ -10,3 +10,4 @@ websockets==13.1
 python-binance==1.0.19
 loguru==0.7.2
 python-dotenv==1.0.1
+openai==1.57.0
